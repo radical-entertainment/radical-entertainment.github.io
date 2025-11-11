@@ -4,79 +4,76 @@
    "ID": "76561199183537145",
    "Color": "000000",
    "Grade": "LEAD DEV",
-   "Custom name": "casters",
-   "Casters?": true
+   "Custom name": "casters"
  },
  {
    "Name": "salt",
    "ID": "76561198280401925",
    "Color": "f7b4c6",
    "Grade": "MUSIC/3D ARTIST",
-   "Custom name": "",
-   "Casters?": false
+   "Custom name": ""
  },
  {
    "Name": "dannan",
    "ID": "76561197999744798",
    "Color": "ee82ee",
    "Grade": "Early Access",
-   "Custom name": "",
-   "Casters?": false
+   "Custom name": ""
  },
  {
    "Name": "Madeleine Compétente",
    "ID": "76561199526899566",
    "Color": "6b01b7",
    "Grade": "Early Access",
-   "Custom name": "",
-   "Casters?": false
+   "Custom name": ""
  },
  {
    "Name": "Dr. Giggletouch",
    "ID": "76561199240815630",
    "Color": "f7b4c6",
    "Grade": "MUSIC/3D ARTIST",
-   "Custom name": "",
-   "Casters?": false
+   "Custom name": ""
  },
  {
    "Name": "liam.kbf",
    "ID": "76561199276540961",
    "Color": "000000",
    "Grade": "Early Access",
-   "Custom name": "",
-   "Casters?": false
+   "Custom name": ""
  },
  {
    "Name": "Dogemenik",
    "ID": "76561199189888162",
    "Color": "ffc336",
    "Grade": "3D UMELEC",
-   "Custom name": "",
-   "Casters?": false
+   "Custom name": ""
  },
  {
    "Name": "TanjiChauve",
    "ID": "76561197970864862",
    "Color": "f58ed8",
    "Grade": "Early Access",
-   "Custom name": "",
-   "Casters?": false
+   "Custom name": ""
  },
  {
    "Name": "Rom1",
    "ID": "76561198282322031",
    "Color": "e0afff",
    "Grade": "Early Access",
-   "Custom name": "",
-   "Casters?": false
+   "Custom name": ""
  },
  {
    "Name": "Johnny",
    "ID": "76561199544529624",
    "Color": "00fff7",
    "Grade": "Early Access",
-   "Custom name": "",
-   "Casters?": false
+   "Custom name": ""
+ },
+ {
+   "Name": "Nyaw",
+   "ID": "76561199186928537",
+   "Color": "00fff7",
+   "Grade": "Early Access",
+   "Custom name": ""
  }
 ]
